@@ -1,0 +1,35 @@
+.top-menu{
+    display:flex;
+    justify-content: space-between;
+    
+    background-color: rgb(63, 180, 165);  
+    height: 95px;
+    
+}
+
+
+
+
+.photo{
+    height: 95px;
+}
+
+
+.top-menu-head{
+
+    
+    justify-content: flex-end;
+    
+    
+
+}
+.top-menu-image{
+    justify-content: flex-start;
+
+}
+
+
+.description{
+    margin-left:105px;
+    padding: 50px;
+}

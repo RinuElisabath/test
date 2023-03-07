@@ -1,0 +1,27 @@
+.footer{
+    display:flex;
+    justify-content: space-between;
+
+
+}
+
+.copyright{
+    justify-content: flex-start;
+    
+
+}
+
+
+
+.social-media-icons{
+    justify-content: flex-end;
+    
+    
+
+}
+
+/* .instagram-logo{
+    width:40px;
+    height:auto;
+
+} */
